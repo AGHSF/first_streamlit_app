@@ -59,7 +59,7 @@ if st.button('Get Fruit Load List'):
   st.dataframe(my_data_rows)
   
 # don't run past here while troubleshoot
-st.stop()
+#st.stop()
 
 
 
